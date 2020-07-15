@@ -1,15 +1,6 @@
 # Leaflet Homework - Visualizing Data with Leaflet
 
-![5-Advanced](Images/5-Advanced.png)
-
-## Rob Gauer
-Date Due:  July 14, 2020
-## Leaflet Homework - Visualizing Data with Leaflet README.md
-(FYI - YOU are currently reading this document...)  
- https://github.com/robgauer/17_leaflet-challenge/blob/master/README.md
-
-
-# OVERVIEW of INSTRUCTIONS
+## Background
 
 ![1-Logo](Images/1-Logo.png)
 
